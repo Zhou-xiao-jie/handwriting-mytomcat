@@ -1,0 +1,2 @@
+# handwriting-mytomcat
+纯手写Tomcat框架，阅读Tomcat源码后，根据核心流程手写过自定义的Tomcat，以socket来封装自定义request、response以及自定义Servlet接口实现init,doGet,doPost等
